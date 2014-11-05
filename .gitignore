@@ -1,0 +1,13 @@
+
+*.tgz
+bin/
+*.valgrindrc
+obj/
+
+exam/readme.txt
+
+*.log
+
+*.o
+
+.idea/
